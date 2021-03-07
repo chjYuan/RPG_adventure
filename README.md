@@ -1,7 +1,7 @@
 # Welcome to our text Game RPG_adventure!
 This is a project based on the course "Advanced Programming" of TUM. 
 
-## Version 1.0 author :Chengjie Yuan,Sibo Hao
+## Version 1.0 author : Sibo Hao, Chengjie Yuan
 
 # Let's get started
 ## Installation
